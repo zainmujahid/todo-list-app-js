@@ -17,6 +17,8 @@ The app has following rules:
 - A task can be added without task's description
 - A task can not be added without task's title
 
+### **Deployment**
+The web app is deployed using github pages and can be viewed at https://zainmujahid.me/todo-list-app-js/
 
 ### **Contributing** 💡
 > #### Step 1
