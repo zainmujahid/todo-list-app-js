@@ -18,7 +18,8 @@ The app has following rules:
 - A task can not be added without task's title
 
 ### **Deployment**
-The web app is deployed using github pages and can be viewed at https://zainmujahid.me/todo-list-app-js/
+The web app is deployed using github pages and can be viewed at <a href="https://zainmujahid.me/todo-list-app-js/" target="_blank">https://zainmujahid.me/todo-list-app-js/</a>
+
 
 ### **Contributing** 💡
 > #### Step 1
